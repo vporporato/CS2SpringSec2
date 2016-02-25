@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hw02-02.cpp">
+    <ClCompile Include="HW02-03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="quadratic.cpp">
+    <ClCompile Include="EvenNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="quadratic.h">
+    <ClInclude Include="EvenNumber.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

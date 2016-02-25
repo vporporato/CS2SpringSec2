@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2F47741E-9BCB-4FBC-8032-88D082A12DD4}</ProjectGuid>
+    <ProjectGuid>{E6012B2F-DE46-465B-B65A-CAB41A9B6EC0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>HW0201</RootNamespace>
+    <RootNamespace>HW02_03</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,11 +142,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Fan.cpp" />
-    <ClCompile Include="HW02-01.cpp" />
+    <ClCompile Include="EvenNumber.cpp" />
+    <ClCompile Include="HW02-03.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Fan.h" />
+    <ClInclude Include="EvenNumber.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
