@@ -38,6 +38,7 @@ int main()
 		cout << "The equation has no real roots" << endl;
 
 
+														//Derek - code looks fantastic and the output is also well formated nice job, I can't find your UML though, did you do that?
 
 	return 0;
 }

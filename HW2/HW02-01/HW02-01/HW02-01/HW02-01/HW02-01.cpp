@@ -27,6 +27,6 @@ int main()
 	cout << "On/Off: " << fan2.getOn() << endl;      //outputs whether or not fan 2 is on or off
 	cout << "Radius: " << fan2.getRadius() << endl;   //gets the radius in constructor and outputs it
 
-
+													//Derek - nicely done just remember to move your header file to the header file folder.
 	return 0;
 }

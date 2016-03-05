@@ -1,7 +1,7 @@
 #ifndef fan_h
 #define fan_h
 
-
+												//Derek - want to save and write this as a header File, remember that for next time
 //Class for Fan
 class fan {
 private:        //These three variables change for the different fans, so they are private
