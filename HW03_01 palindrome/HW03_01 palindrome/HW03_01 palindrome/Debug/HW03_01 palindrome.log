@@ -1,4 +1,4 @@
-﻿Build started 3/15/2016 1:54:08 PM.
+﻿Build started 3/17/2016 2:11:13 PM.
      1>Project "Z:\CS172\HW 03\HW03_01 palindrome\HW03_01 palindrome\HW03_01 palindrome\HW03_01 palindrome.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W1 /WX- /Od /Oy- /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
@@ -10,4 +10,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:05.63
+Time Elapsed 00:00:03.58

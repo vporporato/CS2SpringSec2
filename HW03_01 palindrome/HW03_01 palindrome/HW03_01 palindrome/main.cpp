@@ -38,12 +38,13 @@ int main()
 
 	//These two if loops are used to output back whether or not it is a palindrome based on if it returned true or false in the 
 	// isPalindrome function
-	if (bool isPalindrome = true) {
+	if (isPalindrome(s) == true) {
 		cout << s << " is a palindrome" << endl;
 	}
 
-	if (bool isPalindrome = false) {
+	else {
 		cout << s << " is not a palindrome" << endl;
+		
 	}
 	return 0;
 }
