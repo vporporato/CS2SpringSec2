@@ -6,7 +6,9 @@
 
 #include <iostream>
 using namespace std;
-
+/*Derek- this is good logic and it should do everything right, it crashes after runtime though which is a problem. Other than that I think it looks good, nice job
+19/20
+*/
 //Gets the size of the array that is entered by the user
 void size(int* size) {
 	cout << "What do you want the size of the array to be?" << endl;
@@ -61,6 +63,5 @@ int main() {
 	populateArray(array, ArraySize);
 	//outputs the smallest value
 	cout << smallestinArray(array, ArraySize) << " is the smallest element in the array." << endl;
-
 	return 0;
 }

@@ -4,6 +4,8 @@
 //class: cs172-2
 //////
 
+/*Derek- This is great Vince well done 
+20/20*/
 #include <iostream>
 using namespace std;
 

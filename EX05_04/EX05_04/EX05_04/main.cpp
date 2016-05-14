@@ -2,7 +2,9 @@
 //Name: Vince Porporato
 //Assignment: EX05_04 11.9 Geometry: The Rectangle2D class
 /////
-
+/*Derek-
+Vince I like how ou figured out the contains functions that was a different way of looking at it that I had not thought of nice job..
+20/20*/
 #include <iostream>
 using namespace std;
 #include "rectangle.h"
